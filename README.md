@@ -4,7 +4,7 @@ This is a basic command-line version of hangman written in Rust. As a software e
 
 You can watch a demo of my software here: 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/xMUVAXrm1l4)
 
 # Development Environment
 
